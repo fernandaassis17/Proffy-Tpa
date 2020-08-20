@@ -18,6 +18,11 @@
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2"
   },
+  "author": {
+    "email": "",
+    "name": "Fernanda Marques Assis",
+    "url": "https://github.com/fernandaassis17"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
